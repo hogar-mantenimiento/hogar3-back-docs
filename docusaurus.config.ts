@@ -8,22 +8,23 @@ const config: Config = {
   title: 'Hogar 3 Backend Document',
   favicon: 'img/favicon.ico',
 
-  url: "https://example.com",
-
+  
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
-
+  
   // Set the production url of your site here
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  url: "https://hogar-mantenimiento.github.io/",
+  baseUrl: '/hogar3-back-docs',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Wapp-Software', // Usually your GitHub org/user name.
-  projectName: 'Hogar3', // Usually your repo name.
+  organizationName: 'hogar-mantenimiento', // Usually your GitHub org/user name.
+  projectName: 'hogar3-back-docs', // Usually your repo name.
+  deploymentBranch: "gh-pages",
 
   onBrokenLinks: 'throw',
 
