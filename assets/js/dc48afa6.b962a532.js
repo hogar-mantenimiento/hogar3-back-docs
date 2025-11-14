@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkhogar_3_back_docs=globalThis.webpackChunkhogar_3_back_docs||[]).push([[4464],{5392:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/hogar3-back-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

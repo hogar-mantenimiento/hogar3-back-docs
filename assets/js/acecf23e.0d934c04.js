@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkhogar_3_back_docs=globalThis.webpackChunkhogar_3_back_docs||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/hogar3-back-docs/blog","blogTitle":"Blog","authorsListPath":"/hogar3-back-docs/blog/authors"}')}}]);
